@@ -1,0 +1,12 @@
+<statistics sport="tennis">
+    <category name="Atp - Singles: Us Open (Usa), Hard" id="11941">
+        <match date="09.09.2016" time="21:00" id="396466">
+            <player name="S. Wawrinka" id="1020"/>
+            <player name="K. Nishikori" id="1437"/>
+        </match>
+        <match date="09.09.2016" time="19:00" id="396367">
+            <player name="N. Djokovic" id="1945"/>
+            <player name="G. Monfils" id="1013"/>
+        </match>
+    </category>
+</statistics>

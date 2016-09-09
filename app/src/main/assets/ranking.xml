@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<standings sport="tennis">
+    <player name="Novak Djokovic" rank="1" movement="same 0" country="Serbia &amp; Montenegro" points="16040" id="1945" />
+    <player name="Andy Murray" rank="2" movement="same 0" country="Great Britain" points="10065" id="1450" />
+    <player name="Roger Federer" rank="3" movement="same 0" country="Switzerland" points="5945" id="1000" />
+    <player name="Stan Wawrinka" rank="4" movement="same 0" country="Switzerland" points="5035" id="1020" />
+    <player name="Rafael Nadal" rank="5" movement="same 0" country="Spain" points="4940" id="1425" />
+    <player name="Milos Raonic" rank="6" movement="up 1" country="Canada" points="4465" id="1026" />
+    <player name="Kei Nishikori" rank="7" movement="down 1" country="Japan" points="4390" id="1437" />
+    <player name="Tomas Berdych" rank="8" movement="same 0" country="Czech Republic" points="3660" id="1001" />
+    <player name="Jo-Wilfried Tsonga" rank="9" movement="same 0" country="France" points="2995" id="1952" />
+    <player name="Dominic Thiem" rank="10" movement="same 0" country="Austria" points="2865" id="1130" />
+    <player name="Gael Monfils" rank="11" movement="same 0" country="France" points="2800" id="1013" />
+    <player name="David Ferrer" rank="12" movement="same 0" country="Spain" points="2695" id="1426" />
+    <player name="David Goffin" rank="13" movement="same 0" country="Belgium" points="2655" id="1506" />
+    <player name="Marin Cilic" rank="14" movement="same 0" country="Croatia" points="2525" id="1032" />
+    <player name="Richard Gasquet" rank="15" movement="same 0" country="France" points="2320" id="1842" />
+    <player name="Nick Kyrgios" rank="16" movement="up 2" country="Australia" points="2115" id="3907" />
+    <player name="Roberto Bautista Agut" rank="17" movement="down 1" country="Spain" points="1970" id="21217" />
+    <player name="Feliciano Lopez" rank="18" movement="up 1" country="Spain" points="1835" id="1446" />
+    <player name="John Isner" rank="19" movement="same 0" country="USA" points="1745" id="1034" />
+    <player name="Bernard Tomic" rank="20" movement="same 0" country="Australia" points="1690" id="1016" />
+    <player name="Pablo Cuevas" rank="21" movement="same 0" country="Uruguay" points="1675" id="11035" />
+    <player name="Steve Johnson" rank="22" movement="same 0" country="USA" points="1510" id="6161" />
+    <player name="Jack Sock" rank="23" movement="up 2" country="USA" points="1495" id="6264" />
+    <player name="Ivo Karlovic" rank="24" movement="up 2" country="Croatia" points="1490" id="1031" />
+    <player name="Lucas Pouille" rank="25" movement="up 2" country="France" points="1489" id="2423" />
+    <player name="Kevin Anderson" rank="26" movement="up 2" country="South Africa" points="1470" id="1002" />
+    <player name="Alexander Zverev" rank="27" movement="down 3" country="Germany" points="1440" id="7996" />
+    <player name="Philipp Kohlschreiber" rank="28" movement="down 5" country="Germany" points="1440" id="1035" />
+    <player name="Sam Querrey" rank="29" movement="same 0" country="USA" points="1435" id="1043" />
+    <player name="Martin Klizan" rank="30" movement="same 0" country="Slovakia" points="1428" id="1103" />
+    <player name="Gilles Simon" rank="31" movement="same 0" country="France" points="1385" id="1735" />
+    <player name="Benoit Paire" rank="32" movement="same 0" country="France" points="1356" id="1500" />
+    <player name="Albert Ramos-Vinolas" rank="33" movement="same 0" country="Spain" points="1340" id="27117" />
+    <player name="Grigor Dimitrov" rank="34" movement="same 0" country="Bulgaria" points="1285" id="1820" />
+    <player name="Viktor Troicki" rank="35" movement="same 0" country="Serbia &amp; Montenegro" points="1260" id="1006" />
+    <player name="Joao Sousa" rank="36" movement="same 0" country="Portugal" points="1215" id="1482" />
+    <player name="Gilles Muller" rank="37" movement="same 0" country="Luxembourg" points="1185" id="1050" />
+    <player name="Alexandr Dolgopolov" rank="38" movement="same 0" country="Ukraine" points="1180" id="1015" />
+    <player name="Jeremy Chardy" rank="39" movement="same 0" country="France" points="1175" id="1998" />
+    <player name="Fabio Fognini" rank="40" movement="up 1" country="Italy" points="1120" id="1018" />
+    <player name="Paolo Lorenzi" rank="41" movement="down 1" country="Italy" points="1110" id="1005" />
+    <player name="Nicolas Mahut" rank="42" movement="same 0" country="France" points="1054" id="2058" />
+    <player name="Andrey Kuznetsov" rank="43" movement="up 1" country="Russia" points="1043" id="1696" />
+    <player name="Federico Delbonis" rank="44" movement="down 1" country="Argentina" points="1020" id="3435" />
+    <player name="Marcos Baghdatis" rank="45" movement="up 1" country="Cyprus" points="990" id="1019" />
+    <player name="Fernando Verdasco" rank="46" movement="up 2" country="Spain" points="975" id="1014" />
+    <player name="Marcel Granollers" rank="47" movement="same 0" country="Spain" points="956" id="21215" />
+    <player name="Nicolas Almagro" rank="48" movement="down 3" country="Spain" points="932" id="1033" />
+    <player name="Donald Young" rank="49" movement="up 4" country="USA" points="912" id="2352" />
+    <player name="Jiri Vesely" rank="50" movement="same 0" country="Czech Republic" points="903" id="11932" />
+    <player name="Borna Coric" rank="51" movement="same 0" country="Croatia" points="900" id="11425" />
+    <player name="Guillermo Garcia-Lopez" rank="52" movement="same 0" country="Spain" points="900" id="1030" />
+    <player name="Guido Pella" rank="53" movement="down 4" country="Argentina" points="898" id="1935" />
+    <player name="Thomaz Bellucci" rank="54" movement="up 1" country="Brazil" points="880" id="1008" />
+    <player name="Pablo Carreno Busta" rank="55" movement="up 1" country="Spain" points="879" id="21231" />
+    <player name="Taylor Fritz" rank="56" movement="up 4" country="USA" points="849" id="22930" />
+    <player name="Mikhail Youzhny" rank="57" movement="same 0" country="Russia" points="846" id="1009" />
+    <player name="Stephane Robert" rank="58" movement="same 0" country="France" points="844" id="1117" />
+    <player name="Malek Jaziri" rank="59" movement="same 0" country="Tunisia" points="812" id="2007" />
+    <player name="Gastao Elias" rank="60" movement="up 1" country="Portugal" points="805" id="1884" />
+    <player name="Ernests Gulbis" rank="61" movement="up 2" country="Latvia" points="801" id="1910" />
+    <player name="Robin Haase" rank="62" movement="same 0" country="Netherlands" points="798" id="1021" />
+    <player name="Illya Marchenko" rank="63" movement="up 1" country="Ukraine" points="795" id="1481" />
+    <player name="Dudi Sela" rank="64" movement="up 1" country="Israel" points="791" id="1660" />
+    <player name="Yen-Hsun Lu" rank="65" movement="up 1" country="Taipei" points="790" id="1614" />
+    <player name="Adrian Mannarino" rank="66" movement="up 1" country="France" points="775" id="1701" />
+    <player name="Mikhail Kukushkin" rank="67" movement="up 1" country="Russia" points="769" id="1042" />
+    <player name="Diego Schwartzman" rank="68" movement="up 4" country="Argentina" points="746" id="11483" />
+    <player name="Paul-Henri Mathieu" rank="69" movement="down 15" country="France" points="741" id="1125" />
+    <player name="Carlos Berlocq" rank="70" movement="up 3" country="Argentina" points="741" id="1025" />
+    <player name="Andreas Seppi" rank="71" movement="up 3" country="Italy" points="730" id="1010" />
+    <player name="Dusan Lajovic" rank="72" movement="down 2" country="Serbia &amp; Montenegro" points="728" id="1643" />
+    <player name="Horacio Zeballos" rank="73" movement="up 5" country="Argentina" points="726" id="1102" />
+    <player name="John Millman" rank="74" movement="up 1" country="Australia" points="720" id="1098" />
+    <player name="Damir Dzumhur" rank="75" movement="up 1" country="Bosnia and Herzegovina" points="720" id="1934" />
+    <player name="Ivan Dodig" rank="76" movement="up 1" country="Croatia" points="718" id="1647" />
+    <player name="Inigo Cervantes" rank="77" movement="up 2" country="Spain" points="713" id="29686" />
+    <player name="Pierre-Hugues Herbert" rank="78" movement="up 2" country="France" points="711" id="2060" />
+    <player name="Lukas Rosol" rank="79" movement="up 2" country="Czech Republic" points="705" id="1611" />
+    <player name="Daniel Evans" rank="80" movement="up 2" country="Great Britain" points="705" id="6035" />
+    <player name="Kyle Edmund" rank="81" movement="up 2" country="Great Britain" points="698" id="4593" />
+    <player name="Aljaz Bedene" rank="82" movement="up 3" country="Great Britain" points="695" id="1510" />
+    <player name="Jan-Lennard Struff" rank="83" movement="up 1" country="Germany" points="694" id="2713" />
+    <player name="Evgeny Donskoy" rank="84" movement="down 15" country="Russia" points="691" id="1509" />
+    <player name="Yoshihito Nishioka" rank="85" movement="up 12" country="Japan" points="688" id="8903" />
+    <player name="Dustin Brown" rank="86" movement="same 0" country="Germany" points="685" id="1721" />
+    <player name="Victor Estrella Burgos" rank="87" movement="same 0" country="Dominican Republic" points="682" id="26351" />
+    <player name="Sergiy Stakhovsky" rank="88" movement="up 1" country="Ukraine" points="670" id="1959" />
+    <player name="Ricardas Berankis" rank="89" movement="down 18" country="Lithuania" points="665" id="4212" />
+    <player name="Facundo Bagnis" rank="90" movement="up 1" country="Argentina" points="660" id="3225" />
+    <player name="Gerald Melzer" rank="91" movement="down 1" country="Austria" points="659" id="1126" />
+    <player name="Radu Albot" rank="92" movement="down 4" country="Moldova" points="655" id="1764" />
+    <player name="Jordan Thompson" rank="93" movement="down 1" country="Australia" points="654" id="12336" />
+    <player name="Florian Mayer" rank="94" movement="down 1" country="Germany" points="653" id="1027" />
+    <player name="Rogerio Dutra Silva" rank="95" movement="down 1" country="Brazil" points="642" id="19231" />
+    <player name="Karen Khachanov" rank="96" movement="down 1" country="Russia" points="627" id="21541" />
+    <player name="Konstantin Kravchuk" rank="97" movement="down 1" country="Russia" points="615" id="1478" />
+    <player name="Roberto Carballes Baena" rank="98" movement="up 4" country="Spain" points="611" id="35573" />
+    <player name="Benjamin Becker" rank="99" movement="down 1" country="Germany" points="608" id="2870" />
+    <player name="Lukas Lacko" rank="100" movement="down 1" country="Slovakia" points="606" id="1772" />
+</standings>
